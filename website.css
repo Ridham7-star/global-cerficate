@@ -1,0 +1,26 @@
+
+footer,nav
+  {
+  background-color:whitesmoke;
+  text-align: center;
+  border: 20px;
+}
+h1{
+  text-align: center;
+}
+main{
+  background-color:white;
+}
+section{
+  text-align: left;
+  font-size: smaller;
+  
+}
+*{
+  text-align: center;
+  font-size: larger;
+  padding: 20px;
+  margin: 10px;
+  border: 50px;
+
+}
