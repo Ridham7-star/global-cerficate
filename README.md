@@ -1,1 +1,1 @@
-# global-cerficate
+# global-certificate
